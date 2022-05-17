@@ -1,10 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
-
-        int absolute(int I) {
-        // Your code goes here
-        
+        int absolute(int I) { 
         if(I<0){
             return -1*I;
         }
